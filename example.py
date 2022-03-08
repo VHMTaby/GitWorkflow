@@ -6,6 +6,9 @@ print(5*4)
 
 s = "Wow en cool sträng"
 
+def differens(x, y):
+    return x - y
+
 def summera(x, y):
     return x + y
 

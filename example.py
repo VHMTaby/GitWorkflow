@@ -8,5 +8,8 @@ d = "En annan sträng"
 def summera(x, y, z):
     return x + y + z
 
+def differens(x, y):
+    return x - y
+
 def funk2(s1, s2):
     return s1*2 + s2
